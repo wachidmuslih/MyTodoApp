@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MyTodoApp</string>
+    <string name="welcome"> WELCOME TO TODO APP</string>
+    <string name="nama">Nama</string>
+    <string name="inputNama">Masukkan Nama</string>
+    <string name="pass">Password</string>
+    <string name="inputPass">Masukkan Password</string>
+    <string name="signIn">SIGN IN</string>
+    <string name="newTodo">New To TODO App?</string>
+    <string name="register">Register</string>
+    <string name="email">Email</string>
+    <string name="inputEmail">Masukkan Email</string>
+    <string name="repass">Re-Password</string>
+    <string name="submit">Submit</string>
+    <string name="logout">Logout</string>
+    <string name="task">Task</string>
+    <string name="inputtask">Masukkan Task</string>
+    <string name="jenistask">Jenis Task</string>
+    <string name="inputjenis">Masukkan Jenis Task</string>
+    <string name="timetask">Time Task</string>
+    <string name="inputtime">Masukkan Time</string>
+</resources>
